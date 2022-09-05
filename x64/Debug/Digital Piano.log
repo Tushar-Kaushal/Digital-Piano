@@ -1,0 +1,26 @@
+﻿  MyForm.cpp
+E:\Coding\Programs\Visual Studio C++\Digital Piano\MyForm.h(512,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\Coding\Programs\Visual Studio C++\Digital Piano\MyForm.h(523,7): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\Coding\Programs\Visual Studio C++\Digital Piano\MyForm.h(526,7): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\Coding\Programs\Visual Studio C++\Digital Piano\MyForm.h(529,7): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\Coding\Programs\Visual Studio C++\Digital Piano\MyForm.h(532,7): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\Coding\Programs\Visual Studio C++\Digital Piano\MyForm.h(536,7): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\Coding\Programs\Visual Studio C++\Digital Piano\MyForm.h(539,7): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\Coding\Programs\Visual Studio C++\Digital Piano\MyForm.h(542,7): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\Coding\Programs\Visual Studio C++\Digital Piano\MyForm.h(545,7): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\Coding\Programs\Visual Studio C++\Digital Piano\MyForm.h(550,7): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\Coding\Programs\Visual Studio C++\Digital Piano\MyForm.h(553,7): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\Coding\Programs\Visual Studio C++\Digital Piano\MyForm.h(555,84): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\Coding\Programs\Visual Studio C++\Digital Piano\MyForm.h(558,7): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\Coding\Programs\Visual Studio C++\Digital Piano\MyForm.h(561,7): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\Coding\Programs\Visual Studio C++\Digital Piano\MyForm.h(567,7): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\Coding\Programs\Visual Studio C++\Digital Piano\MyForm.h(570,7): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\Coding\Programs\Visual Studio C++\Digital Piano\MyForm.h(573,7): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\Coding\Programs\Visual Studio C++\Digital Piano\MyForm.h(576,7): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\Coding\Programs\Visual Studio C++\Digital Piano\MyForm.h(579,7): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\Coding\Programs\Visual Studio C++\Digital Piano\MyForm.h(582,7): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\Coding\Programs\Visual Studio C++\Digital Piano\MyForm.h(585,7): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\Coding\Programs\Visual Studio C++\Digital Piano\MyForm.h(588,7): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\Coding\Programs\Visual Studio C++\Digital Piano\MyForm.cpp(13,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Digital Piano.vcxproj -> E:\Coding\Programs\Visual Studio C++\Digital Piano\x64\Debug\Digital Piano.exe

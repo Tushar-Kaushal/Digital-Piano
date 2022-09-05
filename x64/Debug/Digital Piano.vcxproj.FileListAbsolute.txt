@@ -1,0 +1,5 @@
+E:\Coding\Programs\Visual Studio C++\Digital Piano\x64\Debug\Digital Piano.vcxproj.AssemblyReference.cache
+E:\Coding\Programs\Visual Studio C++\Digital Piano\x64\Debug\Digital Piano.vcxproj.SuggestedBindingRedirects.cache
+E:\Coding\Programs\Visual Studio C++\Digital Piano\x64\Debug\DigitalPiano.MyForm.resources
+E:\Coding\Programs\Visual Studio C++\Digital Piano\x64\Debug\Digital Piano.vcxproj.GenerateResource.cache
+E:\Coding\Programs\Visual Studio C++\Digital Piano\x64\Debug\Digital Piano.exe
